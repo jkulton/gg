@@ -7,6 +7,7 @@ Go gadget is a box of CLI utilities.
 | Command | Description |
 |------|-------------|
 | `downcase` | Returns a downcase representation of whatever is passed in args |
+| `rot13` | Returns the ROT13 representation of whatever is passed in args |
 | `sha256` | Returns hexidecimal representation of SHA256 for whatever is passed in args |
 | `upcase` | Returns an upcase representation of whatever  is passed in args|
 | `uuid` | Returns a random UUID v4 |
